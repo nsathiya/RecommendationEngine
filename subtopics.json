@@ -1,0 +1,807 @@
+[
+    {
+        "name": "Simple Habit Starter",
+        "description": "This is our signature 7 day introductory course to mindfulness meditation. In this series, you will learn the basic techniques of focus on the breath, the body and your senses so you can begin meditating right away.\n\nKate James is a mindfulness coach based in Melbourne, Australia. She teaches individuals and corporate groups the five principles of living and working mindfully and how those principles can be integrated into every day life.\n\nKate has been meditating for over 20 years. She runs meditation and yoga retreats in Byron Bay, Bali and Melbourne and she\u2019s the author of bestselling books, Believe in Yourself & Do What You Love and Be Mindful & Simplify Your Life. She has two adult daughters and lives with her partner of 30 years.",
+        "id": "56bc63839eb399e02d18bcce"
+    },
+    {
+        "name": "Sleep Well",
+        "description": "Guided by Jay Chodagam, this is a 7 day mindfulness course on sleeping like a champ.",
+        "id": "56bd5ef6ef80b60300ce21d1"
+    },
+    {
+        "name": "Morning Meditation",
+        "description": "In this series, Fuyuko Toyota will teach you how to start your morning delightful through meditation.",
+        "id": "56d7cce80165ad0300c922f5"
+    },
+    {
+        "name": "Find Happiness",
+        "description": "It can be difficult to stay positive and find happiness when you are surrounded by so much negativity. In this series, Cory Muscara will help savor what is already good in your life, and shift negative situations into positive ones.",
+        "id": "56d7cd1d5a3e600300bffd05"
+    },
+    {
+        "name": "Follow Your Bliss",
+        "description": "How to be connected to your intuition and follow the guidance of your soul when you live in a stressful environment?\nIn this series, Amandine Roche will help to connect to your inner voice and live from the agenda of your soul.",
+        "id": "57a50e95e4269903009fb20b"
+    },
+    {
+        "name": "Stop the War Within",
+        "description": "15 minute meditation practice to induce self-awareness and find inner peace.",
+        "id": "57d80b25e04b0603003bffa3"
+    },
+    {
+        "name": "Waiting at the Airport",
+        "description": "This brief 5-minute meditation is designed to help you relax while waiting at an airport.",
+        "id": "581138604827270300d559d2"
+    },
+    {
+        "name": "Just Landed",
+        "description": "Decompress after your plane with this relaxing meditation.",
+        "id": "581139ded47a8e030013c19a"
+    },
+    {
+        "name": "Coffee Meditation",
+        "description": "Meditate while enjoying your cup of coffee! This 5-minute meditation is a great energy boost.",
+        "id": "58113c74d47a8e030013c1a1"
+    },
+    {
+        "name": "Self-Control",
+        "description": "Self Control is often considered the mother of all character strengths. Studies repeatedly show that people with high levels of self-control, able to delay gratification, are much more successful in all facets of life. In this series, Cory Muscara will guide you through the tools and strategies to improve self-control in your life.",
+        "id": "56d7cd8f5a3e600300bffd0c"
+    },
+    {
+        "name": "Find Peace",
+        "description": "Many consider inner peace to be the highest form of happiness. So often we are trying to change our external world to make us peaceful. What if we could find that peace regardless of what was happening in our lives? In this series, Cory will discuss how we can cultivate this inner peace for ourselves.",
+        "id": "56d7cde45a3e600300bffd11"
+    },
+    {
+        "name": "Find Happiness",
+        "description": "It can be difficult to stay positive and find happiness when you are surrounded by so much negativity. In this series, Cory Muscara will help savor what is already good in your life, and shift negative situations into positive ones.",
+        "id": "56d7cdf35a3e600300bffd12"
+    },
+    {
+        "name": "Unhurried Living",
+        "description": "In this series with Dr. Larry Ward, learn to slow down and savor the moment.",
+        "id": "56d7ce495a3e600300bffd14"
+    },
+    {
+        "name": "Calm Anxiety",
+        "description": "Looming deadlines, endless emails, alarming headlines\u2014sometimes life seems designed to make you tense. The good news is that you can relax in the middle of it all. In this series, Anne Cushman gives you simple but powerful practices to stay calm and grounded no matter what\u2019s going on.",
+        "id": "56d7ce775a3e600300bffd17"
+    },
+    {
+        "name": "Major Decisions",
+        "description": "XYZ",
+        "id": "56d7cf0d5a3e600300bffd1d"
+    },
+    {
+        "name": "Breakups",
+        "description": "This meditation is designed to help anyone who's had a breakup and is going through changes in a close relationship.",
+        "id": "56d7cf195a3e600300bffd1e"
+    },
+    {
+        "name": "Living with Gratitude",
+        "description": "The quality of our life is a direct reflection of how much we appreciate ourselves and the people we love. Here are some simple practices to appreciate the most important people in your life, helping you feel more connected, clear and compassionate.",
+        "id": "56d7cf385a3e600300bffd1f"
+    },
+    {
+        "name": "Fights & Challenges",
+        "description": "XYZ",
+        "id": "56d7cf435a3e600300bffd20"
+    },
+    {
+        "name": "Sharpen Focus",
+        "description": "What would you be able to do with greater focus? What if, instead of being swept away by distraction and mind-wandering, you could stay on task and disciplined, working toward what is most important to you in any given moment? How much different would your life be? In this series, Cory Muscara will guide you through the strategies and exercises that help develop the focus you need to be your best self.",
+        "id": "56d7cf5d5a3e600300bffd22"
+    },
+    {
+        "name": "Level 1: Attention",
+        "description": "The ability to pay attention is central to every human activity. If you are good at concentrating, you can be better at whatever you do. The good news is that attention is a trainable skill. In this series you will build your \u201cconcentration power\u201d with Michael W. Taft.",
+        "id": "56d7cfca5a3e600300bffd27"
+    },
+    {
+        "name": "For College Students",
+        "description": "In this series, Joseph Croskey will help you appreciate the challenges of collegiate life.",
+        "id": "56fc1faf8fc78b03006babc1"
+    },
+    {
+        "name": "Break from Stressful Days",
+        "description": "Having a stressful week? Take a quick break with Simple Habit's guided meditations by Jay Chodagam.",
+        "id": "56fc49f38fc78b03006babcc"
+    },
+    {
+        "name": "Level 2: Breath",
+        "description": "(Recommended pre-requisite: Attention Training)\n\nBreathing is central to life. It\u2019s the first action you take in life, and you do it over 20,000 times each day. Mindfulness of breathing is a central meditation technique which has many benefits. In this seven-part series you will learn mindfulness of breathing with Michael W. Taft.",
+        "id": "57044bf68971ab03007a5c1f"
+    },
+    {
+        "name": "Level 3: Body",
+        "description": "(Recommended pre-requisite: Breath Training)\n\nWe live our entire lives within our bodies, and yet rarely spend any time actually investigating the body\u2019s feelings. Mindfulness of body sensations is a proven technique to help reduce stress, enhance creativity, and foster emotional intelligence. In this seven-part series you will learn mindfulness of body sensations with Michael W. Taft.",
+        "id": "57044cfe8971ab03007a5c27"
+    },
+    {
+        "name": "Level 4: Emotions",
+        "description": "(Recommended pre-requisite: Body Training)\n\nFor many people the most challenging area of life is the emotions. It\u2019s no fun to have your life controlled by your emotional ups and downs. Luckily, mindfulness offers very helpful tools to better handle your emotions, and to enhance your emotional intelligence. In this seven-part series you will learn mindfulness of emotions with Michael W. Taft. \n\nCaveat: If you have intense trauma or PTSD, do these meditations very carefully, and possibly under the supervision of a therapist.",
+        "id": "570bfd8bbf999b03007df546"
+    },
+    {
+        "name": "Feel at Peace",
+        "description": "Many consider inner peace to be the highest form of happiness. So often we are trying to change our external world to make us peaceful. What if we could find that peace regardless of what was happening in our lives? In this series, Cory will discuss how we can cultivate this inner peace for ourselves.",
+        "id": "570ebbf8ed502d0300791bb4"
+    },
+    {
+        "name": "Find Peace",
+        "description": "Many consider inner peace to be the highest form of happiness. So often we are trying to change our external world to make us peaceful. What if we could find that peace regardless of what was happening in our lives? In this series, Cory will discuss how we can cultivate this inner peace for ourselves.",
+        "id": "570ebecced502d0300791bbf"
+    },
+    {
+        "name": "Level 5: Mind",
+        "description": "(Recommended pre-requisite: Emotions Training)\n\nMost people think that meditation means to stop thinking. But you can actually learn to have a very deep and satisfying meditation even when your mind is full of thoughts. Found out how in this seven-part series about mindfulness of thinking with Michael W. Taft.",
+        "id": "571325ad54a94003007cf311"
+    },
+    {
+        "name": "Self-Control",
+        "description": "Self Control is often considered the mother of all character strengths. Studies repeatedly show that people with high levels of self-control, able to delay gratification, are much more successful in all facets of life. In this series, Cory Muscara will guide you through the tools and strategies to improve self-control in your life.",
+        "id": "571473b847cb2a0300c6ca54"
+    },
+    {
+        "name": "Level 6: Awareness",
+        "description": "(Recommended pre-requisite: Mind Training)\n\nMost meditation practices center around training attention. In this series, however, we concentrate on awareness itself. Working with awareness is both very simple and very profound. In this series you will learn how to do open monitoring meditation, as well as dwell in the perfection of the moment, with Michael W. Taft.",
+        "id": "5718456d9ae92b03004c49c4"
+    },
+    {
+        "name": "Attention Training",
+        "description": "The ability to pay attention is central to every human activity. If you are good at concentrating, you can be better at whatever you do. The good news is that attention is a trainable skill. In this series you will build your \u201cconcentration power\u201d with Michael W. Taft.",
+        "id": "571dd81f8d768c030011eaca"
+    },
+    {
+        "name": "For Lawyers",
+        "description": "Practicing law can be brutal.  The pressures and stresses of practicing our profession are legendary.  In this series Grosvenor Burnett, J.D teaches lawyers the skills to survive the practice of law and not burn out and go insane!",
+        "id": "5722d3f1ca9c7b03002c9540"
+    },
+    {
+        "name": "Reduce Stress",
+        "description": "Stress is something we all face, and in large doses it can prevent us from showing up at our best, living well, and helping others. Peter Bonanno will introduce you to several practices to reduce stress in a few minutes per day.",
+        "id": "56d7cda25a3e600300bffd0d"
+    },
+    {
+        "name": "Thought Detox",
+        "description": "We are all addicted to thought. It\u2019s an epidemic. So what can we do? In this series, Kelly will share with you simple yet profound practices that give you a break from thinking. You can\u2019t control thoughts arising in your mind, but you can control how much attention and energy you give them.",
+        "id": "5776e932243ebe03006d02bd"
+    },
+    {
+        "name": "Calm Anxiety",
+        "description": "Looming deadlines, endless emails, alarming headlines\u2014sometimes life seems designed to make you tense. The good news is that you can relax in the middle of it all. In this series, Anne Cushman gives you simple but powerful practices to stay calm and grounded no matter what\u2019s going on.",
+        "id": "5776e97a243ebe03006d02be"
+    },
+    {
+        "name": "Weight Control",
+        "description": "Weight control is always a hard task. Let Gayle help you with her guided meditation.",
+        "id": "577adcf64d3e4e0300f383a5"
+    },
+    {
+        "name": "Can't Sleep",
+        "description": "Try this meditation when you can\u2019t go to sleep. Relax and prepare to go to bed.",
+        "id": "5783d2b893355f03000480e6"
+    },
+    {
+        "name": "Deep Sleep 1",
+        "description": "Explore a deep, restful state of sleep in this series with Anne Douglas. Learn the tools to relax, let go, and drift into deep sleep.",
+        "id": "579453a2617941030070d9d7"
+    },
+    {
+        "name": "Enhance Your Workflow",
+        "description": "In this meditation series with Quentin Finney, learn various techniques you can use to do better at work.",
+        "id": "57995c5dc68ba403002720ef"
+    },
+    {
+        "name": "Clarity for Leaders",
+        "description": "In this series with Mark Prior, sharpen your leadership skills by cultivating a sense of clarity and perspective. Learn mindfulness techniques that will help you approach problems with greater self-awareness.",
+        "id": "57e2fb563da49503004031f4"
+    },
+    {
+        "name": "Feeling Tired",
+        "description": "This 5-minute meditation will help you through feelings of fatigue and drowsiness.",
+        "id": "58085a68875a670300426ab9"
+    },
+    {
+        "name": "Ease Discomfort",
+        "description": "This five-minute meditation with Jay Chodagam will help you relax into discomfort.",
+        "id": "580ef494fc0c2f03006e68b1"
+    },
+    {
+        "name": "Headaches & Fever",
+        "description": "This meditation is structured to help us relax despite the discomfort and change our relationship with pain. Instead of resisting discomfort, which is a natural tendency, we first attend to the breath and our body to relax parts of the body that are holding tension we don't need to. Then we turn toward the headache itself.  In turning toward the pain with a gentle awareness and kindness, we are able to see the pain as a changing phenomena in the body instead of something static and solid. Seeing the shifting and changing quality of pain makes it more tolerable and we can learn to relax into it.",
+        "id": "58105654d3912c03002806e1"
+    },
+    {
+        "name": "After Vacation",
+        "description": "This short meditation session will help you transition to your regular lifestyle after vacation.",
+        "id": "581137cefd46ae030087545c"
+    },
+    {
+        "name": "Procrastination Remedy",
+        "description": "Breaking the procrastination habit is hard to do. In this series with Shalini Bahl, you will learn to tackle the underlying reasons for procrastination. With a daily commitment of just 5 minutes, you will develop different mindfulness practices to overcome seven causes of procrastination.",
+        "id": "5732c55357745403005b8687"
+    },
+    {
+        "name": "Procrastination Remedy",
+        "description": "Breaking the procrastination habit is hard to do. In this series with Shalini Bahl, you will learn to tackle the underlying reasons for procrastination. With a daily commitment of just 5 minutes, you will develop different mindfulness practices to overcome seven causes of procrastination.",
+        "id": "5732c72957745403005b868f"
+    },
+    {
+        "name": "Find Happiness",
+        "description": "It can be difficult to stay positive and find happiness when you are surrounded by so much negativity. In this series, Cory Muscara will help savor what is already good in your life, and shift negative situations into positive ones.",
+        "id": "573ac1500f79fc030045285f"
+    },
+    {
+        "name": "Start a New Job",
+        "description": "Starting a New Job is often likened to \u201cdrinking from a firehose.\u201d It can be a stressful and overwhelming experience. In this series, Ali Niederkorn will help you not only maintain balance through the process, but take an empowering approach to a new beginning.",
+        "id": "573e5bbab3e10f03007405d9"
+    },
+    {
+        "name": "Breath Energizer",
+        "description": "Often we go through a whole day and never really take a full, deep breath. A few minutes of deep breathing can make all the difference. In this series, Ali Niederkorn will help you find that full, replenishing breath.",
+        "id": "573e5ca7b3e10f03007405db"
+    },
+    {
+        "name": "Resilience for Women",
+        "description": "This is a meditation series created for women by a woman. In this series with Shalini Bahl you will be building skills to deal with different challenges and add more joy to your life. With a daily commitment of just 5 minutes, you will explore different mindfulness practices that are foundational for developing confidence, resilience and ease.",
+        "id": "573fb8ca41d5500300b4b47f"
+    },
+    {
+        "name": "Healthy Relationships",
+        "description": "How do you build a healthy relationship? In this series, Elli will guide you through how to apply mindfulness practice to your relationships, whether with a partner, family member, or friend, to help cultivate understanding, love and more happiness all around!",
+        "id": "57445b02a7d28f0300e10eaa"
+    },
+    {
+        "name": "Mindful Communication",
+        "description": "\u201cBetween stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.\u201d \u2013 Victor Frankl\n \nIn this series, Kamala will share tools that will empower you to choose to respond to others with openness, compassion, and empathy, rather than reacting.",
+        "id": "574b14e23775990300d81e42"
+    },
+    {
+        "name": "Procrastination Remedy",
+        "description": "Breaking the procrastination habit is hard to do. In this series with Shalini Bahl, you will learn to tackle the underlying reasons for procrastination. With a daily commitment of just 5 minutes, you will develop different mindfulness practices to overcome seven causes of procrastination.",
+        "id": "574b186a1241be030042deee"
+    },
+    {
+        "name": "Learn To Rest",
+        "description": "Without proper rest and recovery, our performance declines and our overall ability to tolerate stress diminishes. In this series, Michael Rich will help you learn how to apply mindful awareness in order to access the benefits of rest and nervous system recovery.",
+        "id": "574f3075771090030040b70d"
+    },
+    {
+        "name": "Happiness at Work",
+        "description": "What are some secrets to happiness at work? Figure it out with Jay Chodagam, a TEDx lecturer.",
+        "id": "5751c4bc0b50680300c82ff8"
+    },
+    {
+        "name": "Everyday Mindfulness",
+        "description": "There are little moments everyday where we have the opportunity to apply mindfulness! In this series, Elli will share with you simple practices that apply to the activities you are already doing daily to seamlessly infuse mindfulness into your life.",
+        "id": "5755c8d0655672030043a9a1"
+    },
+    {
+        "name": "Compassion",
+        "description": "We are hard-wired to be compassionate. Yet sometimes we get out of practice, especially with difficult people. Practicing compassion is not only good for others, but it can help you feel more meaning, connection and love within yourself. In this series, Kelly will share with you practices that help you feel warmth and care towards others and to see the humanity within them more regularly.",
+        "id": "57560521a55b1a03004f16a5"
+    },
+    {
+        "name": "Thought Detox",
+        "description": "We are all addicted to thought. It\u2019s an epidemic. So what can we do? In this series, Kelly will share with you simple yet profound practices that give you a break from thinking. You can\u2019t control thoughts arising in your mind, but you can control how much attention and energy you give them.",
+        "id": "57560e87a55b1a03004f16b8"
+    },
+    {
+        "name": "5 min meditation",
+        "description": "These are straight up, simple mediations. Lots of space. Little guidance.",
+        "id": "575b0d20d3045a03006fc0ad"
+    },
+    {
+        "name": "10 min meditation",
+        "description": "These are straight up, simple mediations. Lots of space. Little guidance.",
+        "id": "575b0d77a4b03c0300f130ee"
+    },
+    {
+        "name": "15 min meditation",
+        "description": "These are straight up, simple mediations. Lots of space. Little guidance.",
+        "id": "575b0da6d3045a03006fc0af"
+    },
+    {
+        "name": "20 min meditation",
+        "description": "These are straight up, simple mediations. Lots of space. Little guidance.",
+        "id": "575b0dd7a4b03c0300f130ef"
+    },
+    {
+        "name": "30 min meditation",
+        "description": "These are straight up, simple mediations. Lots of space. Little guidance.",
+        "id": "575b0e0ad3045a03006fc0b0"
+    },
+    {
+        "name": "Generosity",
+        "description": "10 minute centering practice to help you induce generosity.",
+        "id": "575b585aa4b03c0300f13130"
+    },
+    {
+        "name": "Kindness",
+        "description": "Meditate deeply for 20 minutes. Practice kindness for your self and others.",
+        "id": "575b5967a4b03c0300f13131"
+    },
+    {
+        "name": "Grounded in the Present",
+        "description": "6 minute centering practice to help you be aware of yourself and surroundings.",
+        "id": "575b5adfa4b03c0300f13133"
+    },
+    {
+        "name": "Deep Relaxation",
+        "description": "10 minute centering practice to help you relax.",
+        "id": "575b6044d3045a03006fc0f4"
+    },
+    {
+        "name": "Centering",
+        "description": "17 minutes of deep meditation and centering practice",
+        "id": "575b6114a4b03c0300f1313a"
+    },
+    {
+        "name": "Loving Kindness",
+        "description": "3 minute quick meditation to practice loving kindness.",
+        "id": "575f014b1f7a1a0300fd66bd"
+    },
+    {
+        "name": "Mindful Eating",
+        "description": "5 minute meditation for mindful eating.",
+        "id": "575f323fe2f8c503000c69d6"
+    },
+    {
+        "name": "Quick Body Scan",
+        "description": "5 minute deep meditation practice for body scan.",
+        "id": "575f339fe2f8c503000c69d9"
+    },
+    {
+        "name": "Learning To Rest",
+        "description": "Without proper rest and recovery, our performance declines and our overall ability to tolerate stress",
+        "id": "575f3628e2f8c503000c69da"
+    },
+    {
+        "name": "Lunch Break",
+        "description": "Quick 5 minute meditation practice for your lunch break.",
+        "id": "575f6209a06acf0300140150"
+    },
+    {
+        "name": "Just Got Home",
+        "description": "Quick 5 minute meditation after work, when you just got home.",
+        "id": "575f6260a06acf0300140151"
+    },
+    {
+        "name": "PMS",
+        "description": "In this series with Kamala, meditate to feel at ease while on your period.",
+        "id": "57606857da2eb503006a5804"
+    },
+    {
+        "name": "Illness",
+        "description": "When illness enters one\u2019s life, it can be an all-consuming source of stress and compromise one\u2019s quality of life.  Whether your looking for short-term support for a temporary health set back, or long term support for chronic malaise, this meditation series offers helpful tools for healing and managing what ails you.",
+        "id": "576068b7050b4d0300698b6d"
+    },
+    {
+        "name": "Calm Anxiety",
+        "description": "Looming deadlines, endless emails, alarming headlines\u2014sometimes life seems designed to make you tense. The good news is that you can relax in the middle of it all. In this series, Anne Cushman gives you simple but powerful practices to stay calm and grounded no matter what\u2019s going on.",
+        "id": "57606d17da2eb503006a5815"
+    },
+    {
+        "name": "Being My Optimal Self",
+        "description": "How to optimize your life? Take your first step with Holly!",
+        "id": "576d88398bb5c503002abc49"
+    },
+    {
+        "name": "Rain",
+        "description": "Relax to the sound of rain.",
+        "id": "5772c0ec6b3c150300edbdc9"
+    },
+    {
+        "name": "Ocean",
+        "description": "Relax to the sound of ocean waves.",
+        "id": "5772c11077e23c0300e26047"
+    },
+    {
+        "name": "Simple Habit Podcast",
+        "description": "Our weekly podcast is brought to you exclusively by former monk and meditation teacher Cory Muscara. Each week, Cory speaks on a topic in mindfulness, from positive psychology to the nature of the human mind.",
+        "id": "575b1d0ad3045a03006fc0c1"
+    },
+    {
+        "name": "Good Morning",
+        "description": "Start a day with quick 5 minute meditation.",
+        "id": "5776e1f0243ebe03006d02b0"
+    },
+    {
+        "name": "Reduce Stress",
+        "description": "Stress is something we all face, and in large doses it can prevent us from showing up at our best, living well, and helping others. Peter Bonanno will introduce you to several practices to reduce stress in a few minutes per day.",
+        "id": "56fecbf04e11fb0300df4601"
+    },
+    {
+        "name": "Deal with Internal Critic",
+        "description": "Painful early life experiences can form a pattern of destructive thoughts toward ourselves and others. It may sabotage our successes or our relationships, preventing us from living with care and ease. So how can we challenge this inner voice? Here are some useful practices that can transform this voice of harsh critique to a feeling of warm understanding.",
+        "id": "5776e8af243ebe03006d02bb"
+    },
+    {
+        "name": "Self-Control",
+        "description": "Self Control is often considered the mother of all character strengths. Studies repeatedly show that people with high levels of self-control, able to delay gratification, are much more successful in all facets of life. In this series, Cory Muscara will guide you through the tools and strategies to improve self-control in your life.",
+        "id": "5776edd49786290300f79c8c"
+    },
+    {
+        "name": "Open Your Heart",
+        "description": "Feel the heart area, place of deep feelings such as love, gratitude, appreciation and compassion.",
+        "id": "577f0874e46f060300599a69"
+    },
+    {
+        "name": "Cultivate Awareness",
+        "description": "Explore what it feels like to be more spacious and free.",
+        "id": "577f0976e46f060300599a6e"
+    },
+    {
+        "name": "Create Harmony",
+        "description": "Practice this meditation with John and briefly explore what it feels like to be more inwardly aligned.",
+        "id": "577f0a3b637e980300eacd7b"
+    },
+    {
+        "name": "Breath of Compassion",
+        "description": "Practice meditation with compassion for humanity and other living beings.",
+        "id": "57840af3ac30cd030045182f"
+    },
+    {
+        "name": "Take a Deep Breath",
+        "description": "Be aware of the space and better understand your surroundings as well as yourself.",
+        "id": "57840bbcac30cd0300451832"
+    },
+    {
+        "name": "Breath-Based Body Scan",
+        "description": "Breathe, meditate and be aware of your body.",
+        "id": "57840c6593355f030004812d"
+    },
+    {
+        "name": "Release Tension",
+        "description": "Suffering from tension and stress? Try out this meditation together with Vidyamala.",
+        "id": "57840d1593355f030004812f"
+    },
+    {
+        "name": "Before a Meeting",
+        "description": "Meditating before a meeting can be an effective way to develop a calm and collaborative mindset. In this series with Quentin Finney, learn different techniques you can use before a meeting to relax and boost focus.",
+        "id": "578d625e3446ec0300f83123"
+    },
+    {
+        "name": "Be More Self-Aware",
+        "description": "Self-awareness is an important part of reducing stress, living healthier, being an effective leader, and connecting with others in a more authentic way. Become more self-aware with this series by Shalini Bahl.",
+        "id": "56d7cd7c5a3e600300bffd0a"
+    },
+    {
+        "name": "Restful Nap",
+        "description": "Recharge with this 8-minute meditation for restful naps, guided by Richard Miller.",
+        "id": "579154058777c903008662ff"
+    },
+    {
+        "name": "Be at Ease",
+        "description": "In this 8-minute meditation with Richard Miller, explore what it means to just simply be with ease.",
+        "id": "57915bc90994ee0300748880"
+    },
+    {
+        "name": "Gratitude Practice",
+        "description": "Explore what it means to practice and live with gratitude in this meditation by Richard Miller.",
+        "id": "57915cc78777c9030086630c"
+    },
+    {
+        "name": "Relationships At Work",
+        "description": "Want more ease, confidence, and resilience in your relationships at work? Peter Bonanno will introduce you to a few practices to better connect with others.\n\nPeter is a social entrepreneur, mindfulness trainer for businesses and nonprofits, and Director of Program Development at Search Inside Yourself Leadership Institute. He\u2019s inspired to help people live brilliantly and with a lot of heart.",
+        "id": "56d7cf715a3e600300bffd24"
+    },
+    {
+        "name": "Relieve Pain",
+        "description": "Learn to approach pain with ease, compassion, and patience in this series by Anne Douglas.",
+        "id": "5795866dbf1a950300f7af99"
+    },
+    {
+        "name": "Easy Focus",
+        "description": "Studies show that we are lost in thought almost 50% of the time, which means that almost half your life you\u2019re not here! This series is to help you hone your capacity to focus on the task at hand and direct your mind to the present moment.",
+        "id": "57984cc6eb2ce003005c9c76"
+    },
+    {
+        "name": "Lunch Break Boost",
+        "description": "In this series with Quentin Finney, leverage your lunch break to boost your productivity and satisfaction at work.",
+        "id": "57996196c68ba403002720fd"
+    },
+    {
+        "name": "Dealing with Depression",
+        "description": "Millions of people all over the world are dealing with depression. Anne Douglas skilfully helps you find peace within, and navigate your way back to Joyful Living. \n\nAnne Douglas is a meditation teacher, life-coach and yoga therapist. She travels internationally to teach trainings, retreats and workshops and is the Director of Trainers for the Integrative Restoration Institute. With over 30 years of experience in health education, Anne offers exceptional tools for well being. Anne lives in the beautiful Rocky Mountain town of Banff, Alberta, Canada.",
+        "id": "57a4d84ee4269903009fb1bd"
+    },
+    {
+        "name": "Morning Therapy",
+        "description": "In this series with Gayle Van Gils, learn to embrace the morning with energy and ease.",
+        "id": "57a4f189e4269903009fb1da"
+    },
+    {
+        "name": "Happiness at Work",
+        "description": "What are some secrets to happiness at work? Figure it out with Jay Chodagam, a TEDx lecturer.",
+        "id": "57a4f58a8604650300996f81"
+    },
+    {
+        "name": "Mindful Relationships",
+        "description": "Thee 5-minute guided meditations offer teachings in Relational Mindfulness. They help the listener to explore areas such as deep listening, transparency, interconnection, and being a compassionate presence.",
+        "id": "57a50769e4269903009fb1f5"
+    },
+    {
+        "name": "Study Break Boost",
+        "description": "Your 5-minute study break with Cory Muscara.",
+        "id": "57ab9aae0771ff030048bd5e"
+    },
+    {
+        "name": "Before an Interview",
+        "description": "Cultivate some calm before your interview with this 5-minute meditation.",
+        "id": "57ab9b090771ff030048bd61"
+    },
+    {
+        "name": "Recharge Before Class",
+        "description": "This 5-minute meditation will give you a quick energy boost before class.",
+        "id": "57ab9b81893a2f0300409e43"
+    },
+    {
+        "name": "Before an Exam",
+        "description": "Relax before an exam with this 5-minute meditation.",
+        "id": "57ab9ba40771ff030048bd63"
+    },
+    {
+        "name": "Worry Less about Grades",
+        "description": "Stressed about your grades? This 5 minute meditation will help you worry less and shift your mindset.",
+        "id": "57ab9c07893a2f0300409e44"
+    },
+    {
+        "name": "For College Students",
+        "description": "In this series, Joseph Croskey will help you appreciate the challenges of collegiate life.",
+        "id": "57abbc90893a2f0300409e6b"
+    },
+    {
+        "name": "Acceptance",
+        "description": "In this session with Ryan Oelke, learn to truly accept yourself, others, and circumstances as they are.",
+        "id": "57ad63281bac9d030088944d"
+    },
+    {
+        "name": "Peaceful Evening",
+        "description": "In this series with Quentin Finney, learn to unwind and relax in the evening to prepare for a restful sleep.",
+        "id": "57b4883458ec68030047f35a"
+    },
+    {
+        "name": "Manage a Team",
+        "description": "This series will cover topics for leaders managing a team - from writing performance reviews to giving difficult feedback, mindful listening, and appreciating your team.",
+        "id": "57b4a71558ec68030047f387"
+    },
+    {
+        "name": "Negotiate Effectively",
+        "description": "This series will give you mindful tools and techniques to negotiate calmly and effectively.",
+        "id": "57b4a887c70c210300f5284f"
+    },
+    {
+        "name": "Deal with Failure",
+        "description": "In this series with Quentin Finney, learn to approach failure with ease and compassion.",
+        "id": "57bb7e8eabc21f0300f727bb"
+    },
+    {
+        "name": "Clear Decision-Making",
+        "description": "In this series, learn various techniques that will help you make decisions calmly and with clarity.",
+        "id": "57bb8ae9abc21f0300f727ef"
+    },
+    {
+        "name": "Healthy Pregnancy",
+        "description": "In this series with Kamala, learn to use meditation as a tool for relaxation and ease during your pregnancy.",
+        "id": "57bb92d3abc21f0300f7280f"
+    },
+    {
+        "name": "Enhance Fertility",
+        "description": "In this series with Kamala, learn to use meditation as a tool for enhancing fertility.",
+        "id": "57bb9952abc21f0300f72824"
+    },
+    {
+        "name": "Meditation for Engineers",
+        "description": "Led by an engineer for engineers, this meditation will help clear your mind for sharper problem-solving and insight.\n\nEdward is the co-founder and CTO of Gusto where oversees engineering and software development at Gusto.",
+        "id": "57a20e9ca6f74903008c4dd4"
+    },
+    {
+        "name": "Deal with Depression",
+        "description": "Millions of people all over the world are dealing with depression. Anne Douglas skilfully helps you find peace within, and navigate your way back to Joyful Living. \n\nAnne Douglas is a meditation teacher, life-coach and yoga therapist. She travels internationally to teach trainings, retreats and workshops and is the Director of Trainers for the Integrative Restoration Institute. With over 30 years of experience in health education, Anne offers exceptional tools for well being. Anne lives in the beautiful Rocky Mountain town of Banff, Alberta, Canada.",
+        "id": "57d7f41c51224d0300c000ad"
+    },
+    {
+        "name": "Calm Anxiety",
+        "description": "Looming deadlines, endless emails, alarming headlines\u2014sometimes life seems designed to make you tense. The good news is that you can relax in the middle of it all. In this series, Anne Cushman gives you simple but powerful practices to stay calm and grounded no matter what\u2019s going on.",
+        "id": "57d7f7b451224d0300c000b5"
+    },
+    {
+        "name": "Overcome Insecurity",
+        "description": "Rediscover your original self-confidence in this series. Peter Bonanno shows you how to settle the mind, be in the flow of the moment, and simply be comfortable in your own skin.",
+        "id": "57d7fc6251224d0300c000c0"
+    },
+    {
+        "name": "Release Fear",
+        "description": "These 5-minute guided meditations offer mindfulness practices for working with and letting go of fear. They offer support for cultivating presence, equanimity, clear seeing, and courage in the face of fear.",
+        "id": "57d8019a51224d0300c000cb"
+    },
+    {
+        "name": "Deal With Internal Critic",
+        "description": "Painful early life experiences can form a pattern of destructive thoughts toward ourselves and others. It may sabotage our successes or our relationships, preventing us from living with care and ease. So how can we challenge this inner voice? Here are some useful practices that can transform this voice of harsh critique to a feeling of warm understanding.",
+        "id": "57d803c9e04b0603003bff93"
+    },
+    {
+        "name": "Let It Go",
+        "description": "We all have something that\u2019s hard to let go of: anger, jealousy, bad habits, the past, the future. Peter Bonanno shows how to get unstuck from the past and step into your potential.",
+        "id": "57d808b351224d0300c000df"
+    },
+    {
+        "name": "Compassion for Self",
+        "description": "Learn to cultivate more self-compassion, love, and acceptance in this 5-minute meditation.",
+        "id": "57f866482358cb03009cd3dd"
+    },
+    {
+        "name": "Compassion for Others",
+        "description": "Take 5 minutes to cultivate a sense of compassion and appreciation for those around you.",
+        "id": "57f867b82358cb03009cd3ee"
+    },
+    {
+        "name": "Calm Nerves",
+        "description": "In this 15 minute meditation with Kelly Boys, explore ways to slow down your nervous system and relax into rest",
+        "id": "58085537875a670300426aa1"
+    },
+    {
+        "name": "Relaxing on Vacation",
+        "description": "Even during vacation, it can be hard to calm your mind and settle into a new environment. Try this 5-minute meditation to make yourself feel comfortable.",
+        "id": "58113a95c0955b03001aca05"
+    },
+    {
+        "name": "Prepare for Travel",
+        "description": "Whether it's a business trip, vacation, visit to home, or anything else, this 5-minute meditation will help you feel prepared and relax before your upcoming travels.",
+        "id": "581135a0a8bc170300445e64"
+    },
+    {
+        "name": "Accept Reality",
+        "description": "This meditation will help you accept reality as it is, however it's turned out to be.",
+        "id": "5822c432bad5f804009b7c00"
+    },
+    {
+        "name": "Denial Meditation",
+        "description": "Work through feelings of frustration and/or denial with this meditation.",
+        "id": "5822c47dbad5f804009b7c05"
+    },
+    {
+        "name": "Feeling Depressed",
+        "description": "Approach feelings of depression and hopelessness with mindfulness and ease.",
+        "id": "5822c50cbad5f804009b7c0d"
+    },
+    {
+        "name": "Let it Go",
+        "description": "Release tension and let negative feelings go with this meditation.",
+        "id": "5822c6babad5f804009b7c1e"
+    },
+    {
+        "name": "Positive Outlook",
+        "description": "Cultivate a sense of positivity, hope, and warmth with this brief meditation.",
+        "id": "5822c75ebad5f804009b7c24"
+    },
+    {
+        "name": "Calm Shock",
+        "description": "Slow down your nervous system with this 15 minute meditation.",
+        "id": "5822c7ffbad5f804009b7c28"
+    },
+    {
+        "name": "Relieve Fear",
+        "description": "This brief meditation will help you relax deeper into the moment and release fear.",
+        "id": "5822c92cbad5f804009b7c2d"
+    },
+    {
+        "name": "Take a Deep Breath",
+        "description": "This brief meditation will guide you through a deep breathing exercise to reduce stress in difficult times.",
+        "id": "5822ca3dbad5f804009b7c35"
+    },
+    {
+        "name": "Destress",
+        "description": "It's okay to be stressed. Listen to this meditation to quickly relieve extreme stress.",
+        "id": "5822cb6fbad5f804009b7c3e"
+    },
+    {
+        "name": "Dealing with Family",
+        "description": "We all love our families, even if we face conflicts along the way. This session will help you to deal with your family and cultivate love during the holiday season.",
+        "id": "58236c85dd63300400d432a2"
+    },
+    {
+        "name": "Holiday Stress",
+        "description": "The holidays can be overwhelming. Find moments of calm with this meditation for holiday stress.",
+        "id": "582df28a03837b0400221421"
+    },
+    {
+        "name": "Surrender to Life",
+        "description": "This meditation series by Jeff Foster touches upon the themes of deep rest, awakening from self-judgement, sinking into the present moment, and feeling completely at home in oneself. Take a journey into self-love and total quietness of mind.",
+        "id": "582f74c76e0c8e04004b7bf5"
+    },
+    {
+        "name": "Deep Rest",
+        "description": "This extended meditation will help you rest effortlessly into the present moment and feel completely immersed in where you are. Use the ever-present rise and fall of your breath as an anchor to the here and now. Perfect before sleep.",
+        "id": "582fa0ef6e0c8e04004b7c76"
+    },
+    {
+        "name": "Body Scan",
+        "description": "Bring a feeling of ease to your entire body with this gentle guided body scan.",
+        "id": "5834f38d52d1b9040094ce33"
+    },
+    {
+        "name": "Loneliness",
+        "description": "XYZ",
+        "id": "56d7cf4c5a3e600300bffd21"
+    },
+    {
+        "name": "Kindness to Self",
+        "description": "In the busyness of our daily lives, it can be hard to appreciate the person we spend the most amount of time with: ourselves. This meditation will help you bring kindness to yourself and find ease in your day.",
+        "id": "5834f1dc52d1b9040094ce2b"
+    },
+    {
+        "name": "Let It Go",
+        "description": "We all have something that\u2019s hard to let go of: anger, jealousy, bad habits, the past, the future. Peter Bonanno shows how to get unstuck from the past and step into your potential.",
+        "id": "56d7ce125a3e600300bffd13"
+    },
+    {
+        "name": "Sleep Better",
+        "description": "Whether you have temporary sleep challenges, chronic insomnia or simply want to deepen into blissful sleep, this series of soothing meditations are designed to instill restful, deep sleep.",
+        "id": "56d91da2e8c60b030060336b"
+    },
+    {
+        "name": "Deep Sleep",
+        "description": "Whether you have temporary sleep challenges, chronic insomnia or simply want to deepen into blissful sleep, this series of soothing meditations are designed to instill restful, deep sleep.",
+        "id": "56d7cdb75a3e600300bffd0f"
+    },
+    {
+        "name": "Restful Sleep",
+        "description": "Whether you have temporary sleep challenges, chronic insomnia or simply want to deepen into blissful sleep, this series of soothing meditations are designed to instill restful sleep.",
+        "id": "56d7ce955a3e600300bffd19"
+    },
+    {
+        "name": "Intro to Simple Habit",
+        "description": "This is our signature 7 day introductory course to mindfulness meditation. In this series, you will learn the basic techniques of focus on the breath, the body and your senses so you can begin meditating right away.",
+        "id": "56fdb1af7b280503003db600"
+    },
+    {
+        "name": "Deep Sleep 2",
+        "description": "This 20 minute Deep Sleep practice uses all the tools and techniques from the Deep Sleep 1 series to help you fall into restful, deep sleep.",
+        "id": "582bad5cb08f7d04004c9bcd"
+    },
+    {
+        "name": "Power of Appreciation",
+        "description": "Shifting into a mindset of gratitude can transform your day. This meditation will help you uncover the power of appreciation in everyday life.",
+        "id": "58237d05dd63300400d43351"
+    },
+    {
+        "name": "Morning Sickness",
+        "description": "This short meditation is designed to help you feel more at ease in the morning \u2014 recommended especially during pregnancy.",
+        "id": "5801416d30f06d03004fae47"
+    },
+    {
+        "name": "Before Work",
+        "description": "Practice mindfulness in order to support our work life! Reduce stress, bolster effectiveness, enhance creativity and work more skillfully with complexity with Michael.",
+        "id": "57901de83a786f030091c20c"
+    },
+    {
+        "name": "Deep Sleep",
+        "description": "Explore a deep, restful state of sleep in this series with Anne Douglas. Learn the tools to relax, let go, and drift into deep sleep.",
+        "id": "57a3d77d71e95e03009c562a"
+    },
+    {
+        "name": "For Leaders & Execs",
+        "description": "Sharpen your leadership skills using mindfulness techniques that cultivate awareness, clarity, and compassion.",
+        "id": "57d07d4ca29ad40300882291"
+    },
+    {
+        "name": "Release Blame",
+        "description": "In this 15 minute meditation, learn to release blame and forgive\u2014whether it be yourself, a loved one, or something else.",
+        "id": "5823691bdd63300400d4327b"
+    },
+    {
+        "name": "Deep Sleep 3",
+        "description": "This 10 minute deep sleep practice will invite you to work with any thoughts or emotions that may be keeping you awake at night.",
+        "id": "582df31803837b0400221426"
+    },
+    {
+        "name": "Tea Meditation",
+        "description": "Drinking tea can be a special and soothing ritual. Listen to this 3-minute meditation as you enjoy your cup of tea.",
+        "id": "5834f09452d1b9040094ce26"
+    }
+]
